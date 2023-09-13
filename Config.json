@@ -1,0 +1,12 @@
+{
+    "connections":{ 
+        "sqlserver":{
+            "databaseName": "QuizIrcnV",
+            "user": "viet080702",
+            "password": "nguyenanhviet",
+            "serverName": "MSI/SQLEXPRESS:1433",
+            "otherParameters": "Encrypt=false"
+        },
+        "port": "1433" 
+    }
+}
